@@ -7,5 +7,5 @@ def greet_characters(array)
   end
 end
 
-index + 1
+
 
